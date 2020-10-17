@@ -1,6 +1,6 @@
 # PocDoc
 
-### :eye_speech_bubble: Coming Soon :eye_speech_bubble: - Open Source
+### Coming Soon - Open Source
 
 ##### Join our Beta Program through our website today
 
